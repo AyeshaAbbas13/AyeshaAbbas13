@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ayesha Abbas
 
-<!--
-**AyeshaAbbas13/AyeshaAbbas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineering student passionate about building clean software and learning modern technologies.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category   | Technologies               |
+|------------|----------------------------|
+| Languages  | Python, JavaScript         |
+| Tools      | Git, GitHub, VS Code       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Developer Profile README
+- **Description:** Interactive profile page built using Markdown syntax.
+- **Tech Stack:** Markdown, Git, GitHub
+
+## Contact
+- **Email:** aayesha.abbas2007@gmail.com
+- **GitHub:** [@AyeshaAbbas13](https://github.com/AyeshaAbbas13)
